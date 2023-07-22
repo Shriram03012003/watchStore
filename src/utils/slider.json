@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Fossil x1",
+    "price": "47,043",
+    "detail": "Automatic Winding",
+    "image":"./r1.png"
+  },
+  {
+    "name": "Armani Exchange x1",
+    "price": "66,353",
+    "detail": "Analog Quartz",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Kenneth Cole x1",
+    "price": "35,853",
+    "detail": "Silicon Chronograph",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Fossil x2",
+    "price": "47,043",
+    "detail": "Analog Quartz",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Armani Exchange x2",
+    "price": "66,353",
+    "detail": "Silicon Chronograph",
+    "image": "./r1.png"
+  },
+  {
+    "name": "Kenneth Cole x2",
+    "price": "35,853",
+    "detail": "Automatic Winding",
+    "image": "./r1.png"
+  }
+]
